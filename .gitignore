@@ -61,6 +61,9 @@ logs/
 *.sqlite3
 *.db
 
+# --- 学校相关材料（不随项目公开）---
+docs/school-submission/
+
 # --- 编辑器与系统 ---
 .vscode/*
 !.vscode/extensions.json
